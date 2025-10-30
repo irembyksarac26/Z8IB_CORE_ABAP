@@ -9,3 +9,5 @@ REPORT z8ib_r_github_test.
 WRITE : /'Emine İrem Büyüksaraç'.
 
 WRITE : / 'Github Test'.
+
+WRITE : / 'GitHub test başarılı'.
