@@ -11,3 +11,5 @@ WRITE : /'Emine İrem Büyüksaraç'.
 WRITE : / 'Github Test'.
 
 WRITE : / 'GitHub test başarılı'.
+
+WRITE : / 'GitHub test WEB den değişiklik'.
